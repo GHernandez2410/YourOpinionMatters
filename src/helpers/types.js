@@ -1,0 +1,2 @@
+export const VALID_URL = 'https://www.amazon.com/One-Womens-Petite-Multivitamins-Count/dp/B004XSOJ02/ref=sxin_2_ac_d_rm?ac_md=1-1-dml0YW1pbnMgZm9yIHdvbWVu-ac_d_rm&cv_ct_cx=vitamins&dchild=1&keywords=vitamins&pd_rd_i=B004XSOJ02&pd_rd_r=44e6d03a-e543-4a9e-a6c2-15e32ff4a7ad&pd_rd_w=98b9v&pd_rd_wg=JFPxa&pf_rd_p=500f114e-2c2f-4a43-bcda-f4dcdd3832f9&pf_rd_r=KNPFJMTR8P46106XAR3B&psc=1&qid=1599642403&sr=1-2-12d4272d-8adb-4121-8624-135149aa9081';
+export const VALID_ASIN = 'B004QQ9LVS';
