@@ -1,9 +1,6 @@
 import React from "react";
 import { Router, Switch, Route } from "react-router-dom";
 
-// import "bootstrap/dist/css/bootstrap.min.css";
-import "./App.css";
-
 import MainPage from "./components/pages/MainPage";
 
 import { history } from "./helpers/history";
